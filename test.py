@@ -1,2 +1,1 @@
-print("hellow world")
-print("ajeeth")
+print('Hello, world!')
